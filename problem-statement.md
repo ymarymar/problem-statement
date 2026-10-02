@@ -1,8 +1,5 @@
 # Problem Statement
 
-*As delivered 2026-09-25. Kept verbatim; don't edit. If the research question
-changes, record the change in the notes rather than rewriting this.*
-
 ## Introduction
 
 Searching a large video collection for a specific moment requires more than a single
